@@ -1,16 +1,16 @@
 ## Resources
 #### Read or watch:
 
-- [C pdf](Everything you need to know to start with C.pdf) (You do not have to learn everything in there yet, but make sure you read it entirely first)
+[C pdf](Everything you need to know to start with C.pdf) (You do not have to learn everything in there yet, but make sure you read it entirely first)
 - Dennis Ritchie
-- [C book](“C” Programming Language: Brian Kernighan)
-- [C](Why C Programming Is Awesome)
-- [C](Learning to program in C part 1)
-- [C](Learning to program in C part 2)
-- [C](Understanding C program Compilation Process)
-- [C](Betty Coding Style)
-- [C](Hash-bang under the hood) (Look at only after you finish consuming the other resources)
-- [C](Linus Torvalds on C vs. C++) (Look at only after you finish consuming the other resources)
+[C book](“C” Programming Language: Brian Kernighan)
+[C](Why C Programming Is Awesome)
+[C](Learning to program in C part 1)
+[C](Learning to program in C part 2)
+[C](Understanding C program Compilation Process)
+[C](Betty Coding Style)
+[C](Hash-bang under the hood) (Look at only after you finish consuming the other resources)
+[C](Linus Torvalds on C vs. C++) (Look at only after you finish consuming the other resources)
 #### man or help:
 
 - `gcc`
