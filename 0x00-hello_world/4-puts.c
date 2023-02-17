@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - Prints out string using puts() function
  * Description: Prints out the string "\"Programming is like building a multilingual puzzle\n" using puts()
