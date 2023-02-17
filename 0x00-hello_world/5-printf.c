@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - main entry of our source
-*description - print to the stdout using printf
+*Description - print to the stdout using printf
 *return - always be zero to show success
 */
 int main(void)
