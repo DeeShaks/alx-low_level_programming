@@ -9,8 +9,8 @@ int j, k;
 for (j = 1; j < 1024; j++)
 {
 if ((j % 3) == 0 || (j % 5) == 0)
-j += a;
+j += k;
 }
-printf("%d\n", b);
+printf("%d\n", k);
 return (0);
 }
