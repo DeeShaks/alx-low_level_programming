@@ -1,10 +1,10 @@
 # Resources
 ## Read or Watch
-[Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
-[C functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
-[Learning to program in C part six](https://www.youtube.com/watch?v=qMlnFwYdqIw)
-[Whats the purpose of function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
-[C header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+- [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
+- [C functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+- [Learning to program in C part six](https://www.youtube.com/watch?v=qMlnFwYdqIw)
+- [Whats the purpose of function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
+- [C header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 
 ### Learning Objectives
 #### General
