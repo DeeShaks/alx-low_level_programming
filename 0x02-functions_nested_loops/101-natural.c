@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 /**
  * main - prints natural numbers below 0124 that are multiples of 3 or 5
  * Return: 0
